@@ -1,0 +1,35 @@
+.htreeDatachecker{max-width:100% !important;}
+.htreeDatachecker .container{width:100%;max-width:100%;}
+.htreeDatachecker h2{font-size:22px;}
+.htreeDatachecker p{font-size:16px;}
+.clear{clear:both;}
+.sliderstart{border-top: 1px solid #ccc;padding: 15px 0;}
+.slider-row{border-bottom: 1px solid #ccc;padding: 15px 0;}
+.slider-row:last-child{border:0;}
+.slider-row .htree-datachecker-icon{float:left;width:40px;}
+h3.htree-controlname{font-size:22px;font-weight:bold;display:inline-block;margin:0;padding:0 10px;width:90%;}
+h3.htree-controlname p{font-size:16px;font-weight:normal;display:inline;}
+.slider-controlname{padding:10px 0;}
+.slider-label{font-size:14px;}
+.slider-label{float: right;margin-right: 10px;margin-top: 5px;font-weight: 800;font-size: 14px;color: #888;}
+.slider_value{float: right;margin-right: 10px;margin-top: 5px;font-weight: 800;font-size: 16px;color: #888;}
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br{border-radius:24px !important}
+.control_customhtml{font-size:16px;}
+.control_customhtml h3{font-size:20px;}
+.number-fix{font-size: 14px;margin: 0;overflow: hidden;padding: 0;width: auto;}
+.number-fix-prev{float: left;overflow: hidden;text-align: left;white-space: nowrap;width: 40%;padding-left:10px;}
+.number-fix-next{float: right;overflow: hidden;text-align: right;white-space: nowrap;width: 48%;padding-right:10px;}
+.ui-slider-handle.ui-state-default.ui-corner-all {background: #77e525;}
+.ui-slider-handle {border-radius:40px !important;top:-6px !important;width:13px;background:#777;border:0 !important;}
+
+.datapackage{border-top: 1px solid #ccc;padding: 15px 0;}
+.packageheading{font-size:22px;margin: 10px 0;}
+.list-inline > li{display: inline-block;}
+.datapackage .button.info {color: #FFF;background-color:#b0be2d;border: 0;font-weight: bold;width: 210px;text-align: center;}
+.datapackage .list-inline li a{font-size: 20px;padding: 5px 10px;}
+.datapackage .list-inline li a span {font-size: 14px;}
+.datapackage a.button.info.active, .datapackage a.button.info:hover{color: #FFF;background-color: #a12de8;border: 0;font-weight: bold;}
+h3.dataaddon-title{font-size:20px;border-top:1px solid #ccc;width:100%;padding:10px 0;border-bottom:1px solid #ccc;}
+.addontext{color: #000;font-size: 14px;float: left;margin-top: 0px;}
+.dataaddon_box{color:#000;float: right;background: #bbc938;text-align: center;border-radius: 50%;padding: 30px;font-size: 12px;width:150px;height:150px;}
+.data_addon .data{color: #fff;font-size: 28px;}

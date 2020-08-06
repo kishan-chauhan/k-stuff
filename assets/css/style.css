@@ -1,0 +1,17 @@
+.error{color:red;font-size:14px;border-left-color: red;margin:5px 0 15px; background: #fff;border-left: 4px solid #fff;border-left-color: rgb(255, 255, 255);box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);margin: 5px 0px 10px;padding: 10px 12px;line-height: 34px;width: 90%;float: left;}
+.success{color:green;font-size:14px;border-left-color: green;background: #fff;border-left: 4px solid #fff;border-left-color: rgb(255, 255, 255);box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);margin: 5px 0px 10px;padding: 10px 12px;line-height: 34px;width: 90%;float: left;}
+.singleaction{text-align:right;}
+.th-width label{float:left;width:12%;}
+#post_image_div{margin-left:140px;padding:10px;}
+.htree-text{width:30%;line-height:26px;}
+.htree-text-small{width:15%;line-height:26px;}
+.htree-textarea{width:30%;line-height:18px;}
+.htree-textarea-control{width:60%;line-height:18px;height:150px;}
+.htree-select{width:30%;line-height:26px;}
+#wp-package_description-wrap{width:60%;float:left;}
+#wp-custom_html-wrap{width:60%;float:left;}
+.required{color:red;}
+table.widefat th.column-icons_id{width:10%;}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	.th-width label{float:left;width:50%;}
+}
